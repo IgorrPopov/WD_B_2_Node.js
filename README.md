@@ -4,5 +4,5 @@
 - clone this repository
 - open terminal on root of the project
 - run **npm install** command
-- run **node app** command
+- run **node app (or npm start)** command
 - open browser and go to the **http://localhost:5000/** url
